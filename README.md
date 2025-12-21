@@ -1,49 +1,26 @@
+# Siva Panyam
 
-Hi there! 👋
+## About Me
+I am a Computer Science student with a strong interest in Artificial Intelligence and Machine Learning.
+I am actively preparing for Google Summer of Code (GSoC) 2026 and contributing to open-source projects.
 
-I'm a student passionate about coding, technology, and learning new things. I love exploring different programming languages, building projects, and solving problems.
+## Skills
+- Python
+- Machine Learning (beginner → intermediate)
+- Git & GitHub
+- Data Analysis (NumPy, Pandas)
+- Web Basics (HTML, CSS, JavaScript)
+- Java and Mysql
 
-🚀 Technologies & Skills
+## Projects
+- **TuneAura** – A music web application exploring intelligent playlist ideas
+- **ML Basics (upcoming)** – Implementing ML algorithms from scratch
+- **Deep Learning Projects (upcoming)** – NLP / Computer Vision
 
-💻 Programming: Python, java(Basics),C++ and C
+## Goals
+- Build production-quality AI projects
+- Contribute to open-source AI organizations
+- Get selected for GSoC 2026
 
-🌐 Web Development: HTML, CSS
-
-
-📌 What I'm Working On
-
-Learning new technologies and improving my coding skills
-
-Building projects to apply my knowledge
-
-Contributing to open-source when possible
-
-
-🎯 Goals
-
-Master problem-solving and algorithms
-
-Work on real-world projects
-
-Keep growing as a developer
-
-
-Feel free to check out my repositories and connect with me! 🚀
-
-
----
-
-<!--
-**SivaPanyam/SivaPanyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- GitHub: https://github.com/SivaPanyam
